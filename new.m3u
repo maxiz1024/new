@@ -493,12 +493,8 @@ http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=ShengHuo
 http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=338
 #EXTINF:-1 tvg-id="" tvg-name="CIBN流行榜单" tvg-logo="" group-title="网络电视",CIBN流行榜单
 http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=155
-#EXTINF:-1 tvg-id="" tvg-name="CIBN全球购" tvg-logo="" group-title="网络电视",CIBN全球购
-http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=301
 #EXTINF:-1 tvg-id="" tvg-name="CIBN巨星演唱会" tvg-logo="" group-title="网络电视",CIBN巨星演唱会
 http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=135
-#EXTINF:-1 tvg-id="" tvg-name="CIBN好享购物" tvg-logo="" group-title="网络电视",CIBN好享购物
-http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=302
 #EXTINF:-1 tvg-id="" tvg-name="CIBN经典音乐" tvg-logo="" group-title="网络电视",CIBN经典音乐
 http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=162
 #EXTINF:-1 tvg-id="" tvg-name="CIBN女团专场" tvg-logo="" group-title="网络电视",CIBN女团专场
