@@ -123,18 +123,14 @@ http://kjol.cc/proxy/hunan.php?id=484
 http://kjol.cc/proxy/hunan.php?id=229
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="湖南",金鹰纪实
 http://kjol.cc/proxy/hunan.php?id=316
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南",先锋兵羽
-http://kjol.cc/proxy/hunan.php?id=329
-#EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="湖南",快乐垂钓
-http://kjol.cc/proxy/hunan.php?id=218
 #EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="湖南",茶频道
-http://kjol.cc/proxy/hunan.php?id=578
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南",长沙新闻
-http:///kjol.cc/proxy/hunan.php?id=269
+http://112.17.40.140/PLTV/88888888/224/3221226744/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南",长沙政法
-http://kjol.cc/proxy/hunan.php?id=254
+http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_348.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南",长沙女性
-http://kjol.cc/proxy/hunan.php?id=230
+http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_349.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南",长沙影视
+http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_350.m3u8
 #EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="央视",中国教育1台
 http://39.135.138.59:18890/PLTV/88888910/224/3221225661/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",中国教育4台
