@@ -39,7 +39,5 @@ http://39.135.138.59:18890/PLTV/88888910/224/3221225661/index.m3u8
 http://39.135.138.59:18890/PLTV/88888910/224/3221225937/index.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN
 http://39.135.138.59:18890/PLTV/88888910/224/3221225747/index.m3u8
-#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN 记录
+#EXTINF:-1 tvg-id="891" tvg-name="CGTNDocumentary" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CGTNDoc.png" group-title="港澳台",CGTN DOCUMENTARY
 http://39.135.138.59:18890/PLTV/88888910/224/3221225645/index.m3u8
-
-
