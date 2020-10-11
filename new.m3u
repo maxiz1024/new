@@ -341,13 +341,13 @@ http://101.71.255.229:6610/zjhs/2/10113/index.m3u8?virtualDomain=zjhs.live_hls.z
 http://101.71.255.229:6610/zjhs/2/10105/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-id="" tvg-name="IHOT爱院线" tvg-logo="" group-title="网络电视",IHOT爱院线
 http://101.71.255.229:6610/zjhs/2/10116/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",熊猫爱生活
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="网络电视",熊猫爱生活
 http://sam629205.f3322.net:2018/udp/239.93.1.190:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",熊猫影院
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="网络电视",熊猫影院
 http://sam629205.f3322.net:2018/udp/239.93.0.214:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",熊猫体娱
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="网络电视",熊猫体娱
 http://sam629205.f3322.net:2018/udp/239.93.0.94:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",熊猫新闻
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="网络电视",熊猫新闻
 http://sam629205.f3322.net:2018/udp/239.93.1.112:5140
 #EXTINF:-1 tvg-id="" tvg-name="CIBN炫佳动漫" tvg-logo="" group-title="网络电视",CIBN炫佳动漫
 http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=JingPin
