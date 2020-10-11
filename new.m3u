@@ -190,8 +190,6 @@ http://scgctvshow.sctv.com/hdlive/sctv7/1.m3u8
 http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
 #EXTINF:-1 tvg-id="2061" tvg-name="SCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv9.png" group-title="四川",四川公共频道
 http://scgctvshow.sctv.com/hdlive/sctv9/1.m3u8
-#EXTINF:-1 tvg-id="2062" tvg-name="SCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv8.png" group-title="四川",四川科教频道
-http://m3u8.sctv.com/tvlive/SCTV8/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",熊猫爱生活
 http://sam629205.f3322.net:2018/udp/239.93.1.190:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",熊猫影院
