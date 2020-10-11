@@ -606,6 +606,8 @@ http://42.56.91.136/live-bvc/164219/live_97065163_17925468.m3u8
 http://hpull.kktv8.com/livekktv/111536805/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NHK华语视界" tvg-logo="" group-title="港澳台",日本NHK华语视界
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/zh/725580/livecom_zh.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="凤凰电影" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/a/a0/Phoenix_Movies.svg/150px-Phoenix_Movies.svg.png" group-title="港澳台",凤凰电影
+rtmp://58.200.131.2/livetv/fhdy
 #EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="港澳台",香港开电视
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="亚旅卫视" tvg-logo="http://www.ctstvnet.com/uploads/image/20190904/1567573278176773.png" group-title="港澳台",亚旅卫视
