@@ -109,6 +109,32 @@ http://39.135.138.59:18890/PLTV/88888910/224/3221225832/index.m3u8
 http://39.135.138.59:18890/PLTV/88888910/224/3221225887/index.m3u8
 #EXTINF:-1 tvg-id="72" tvg-name="三沙卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sansha.png" group-title="卫视",三沙卫视
 http://ivi.bupt.edu.cn/hls/sstv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南",湖南经视
+http://kjol.cc/proxy/hunan.php?id=280
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南",湖南都市
+http://kjol.cc/proxy/hunan.php?id=346
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南",湖南公共
+http://kjol.cc/proxy/hunan.php?id=261
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南",湖南娱乐
+http://kjol.cc/proxy/hunan.php?id=344
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南",湖南电视剧
+http://kjol.cc/proxy/hunan.php?id=484
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南",湖南国际
+http://kjol.cc/proxy/hunan.php?id=229
+#EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="湖南",金鹰纪实
+http://kjol.cc/proxy/hunan.php?id=316
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南",先锋兵羽
+http://kjol.cc/proxy/hunan.php?id=329
+#EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="湖南",快乐垂钓
+http://kjol.cc/proxy/hunan.php?id=218
+#EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="湖南",茶频道
+http://kjol.cc/proxy/hunan.php?id=578
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南",长沙新闻
+http:///kjol.cc/proxy/hunan.php?id=269
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南",长沙政法
+http://kjol.cc/proxy/hunan.php?id=254
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南",长沙女性
+http://kjol.cc/proxy/hunan.php?id=230
 #EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="央视",中国教育1台
 http://39.135.138.59:18890/PLTV/88888910/224/3221225661/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",中国教育4台
