@@ -29,4 +29,17 @@ http://39.135.138.59:18890/PLTV/88888910/224/3221225805/index.m3u8
 http://39.135.138.59:18890/PLTV/88888910/224/3221225806/index.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV-15 音乐
 http://39.135.138.59:18890/PLTV/88888910/224/3221225891/index.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV5+ 体育赛事
+http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17 农业农村
+http://39.135.139.194:6610/PLTV/88888888/224/3221225910/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",中国教育1台
+http://39.135.138.59:18890/PLTV/88888910/224/3221225661/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",中国教育4台
+http://39.135.138.59:18890/PLTV/88888910/224/3221225937/index.m3u8
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN
+http://39.135.138.59:18890/PLTV/88888910/224/3221225747/index.m3u8
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN 记录
+http://39.135.138.59:18890/PLTV/88888910/224/3221225645/index.m3u8
+
 
