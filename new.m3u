@@ -113,7 +113,7 @@ http://ivi.bupt.edu.cn/hls/sstv.m3u8
 http://39.135.138.59:18890/PLTV/88888910/224/3221225661/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",CETV4
 http://39.135.139.194:6610/PLTV/88888888/224/3221225969/1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",CETV早期教育
+#EXTINF:-1 tvg-id="6581" tvg-name="早期教育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE33.jpg" group-title="央视",CETV早期教育
 http://39.135.140.226:6410/PLTV/88888888/224/3221225513/2/index.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN
 http://39.135.138.59:18890/PLTV/88888910/224/3221225747/index.m3u8
@@ -141,12 +141,14 @@ http://219.153.252.50/PLTV/88888888/224/3221225531/chunklist.m3u8
 http://219.153.252.50/PLTV/88888888/224/3221225640/chunklist.m3u8
 #EXTINF:-1 tvg-id="6573" tvg-name="汽摩" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE22.jpg" group-title="其他",重庆汽摩
 http://39.135.140.226:6410/PLTV/88888888/224/3221225506/2/index.m3u8
+#EXTINF:-1 tvg-id="6605" tvg-name="优优宝贝" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC3.jpg" group-title="陕西",优优宝贝
+http://124.227.184.49/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226023/index.m3u8
+#EXTINF:-1 tvg-id="6606" tvg-name="四海钓鱼" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC4.jpg" group-title="陕西",四海钓鱼
+http://124.227.184.49/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226025/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",浙江舟山群岛旅游
 http://live.wifizs.cn/qdly/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",吉林篮球
 http://39.135.138.59:18890/PLTV/88888910/224/3221225876/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",山东教育卫视
-http://39.135.138.59:18890/PLTV/88888910/224/3221225863/index.m3u8
 #EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png" group-title="其他",江苏优漫卡通
 http://39.135.138.59:18890/PLTV/88888910/224/3221225904/index.m3u8
 #EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="其他",北京卡酷少儿
@@ -321,10 +323,6 @@ http://124.227.184.49/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225500/index.m
 http://124.227.184.49/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225536/index.m3u8
 #EXTINF:-1 tvg-id="6627" tvg-name="百姓健康" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHTV.jpg" group-title="陕西",陕西百姓健康
 http://124.227.184.49/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226021/index.m3u8
-#EXTINF:-1 tvg-id="6605" tvg-name="优优宝贝" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC3.jpg" group-title="陕西",陕西优优宝贝
-http://124.227.184.49/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226023/index.m3u8
-#EXTINF:-1 tvg-id="6606" tvg-name="四海钓鱼" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC4.jpg" group-title="陕西",陕西四海钓鱼
-http://124.227.184.49/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226025/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="陕西",陕西西安2
 http://124.227.184.49/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226032/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="陕西",陕西西安教育
@@ -419,6 +417,62 @@ http://124.227.184.49/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225855/index.m
 http://124.227.184.49/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226054/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="陕西",陕西安康教育
 http://124.227.184.49/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226055/index.m3u8
+#EXTINF:-1 tvg-id="1427" tvg-name="山东齐鲁" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_qilu.png" group-title="山东",山东齐鲁
+http://120.221.5.113:8089/PLTV/88888888/224/3221225868/index.m3u8
+#EXTINF:-1 tvg-id="1430" tvg-name="山东公共" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_gonggong.png" group-title="山东",山东公共
+http://120.221.5.113:8089/PLTV/88888888/224/3221225962/index.m3u8
+#EXTINF:-1 tvg-id="1428" tvg-name="山东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_tiyu.png" group-title="山东",山东体育
+http://120.221.5.113:8089/PLTV/88888888/224/3221226003/index.m3u8
+#EXTINF:-1 tvg-id="1431" tvg-name="山东少儿" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_shaoer.png" group-title="山东",山东少儿
+http://120.221.5.113:8089/PLTV/88888888/224/3221226001/index.m3u8
+#EXTINF:-1 tvg-id="1429" tvg-name="山东农科" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_nongke.png" group-title="山东",山东农科
+http://120.221.5.113:8089/PLTV/88888888/224/3221226018/index.m3u8
+#EXTINF:-1 tvg-id="1428" tvg-name="山东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_tiyu.png" group-title="山东",山东体育
+http://120.221.5.111:8089/PLTV/88888888/224/3221226075/index.m3u8
+#EXTINF:-1 tvg-id="1432" tvg-name="山东影视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_yingshi.png" group-title="山东",山东影视
+http://120.221.5.165:8089/PLTV/88888888/224/3221225802/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="山东",山东教育
+http://39.135.138.59:18890/PLTV/88888910/224/3221225863/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="山东",山东淄博都市
+http://120.221.5.108:8089/PLTV/88888888/224/3221226061/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="山东",山东淄博新闻
+http://120.221.5.113:8089/PLTV/88888888/224/3221225986/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="山东",山东淄博公共
+http://120.221.5.111:8089/PLTV/88888888/224/3221226014/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="山东",山东高青综合
+http://120.221.5.165:8089/PLTV/88888888/224/3221225905/index.m3u8
+#EXTINF:-1 tvg-id="103" tvg-name="IPTV少儿动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV少儿动画.png" group-title="山东",IPTV少儿动画
+http://120.221.5.113:8089/PLTV/88888888/224/3221225929/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="山东",家庭影院
+http://120.221.5.113:8089/PLTV/88888888/224/3221226055/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="山东",音乐现场
+http://120.221.5.113:8089/PLTV/88888888/224/3221226059/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="山东",喜剧影院
+http://120.221.5.113:8089/PLTV/88888888/224/3221225927/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="山东",武术频道
+http://120.221.5.113:8089/PLTV/88888888/224/3221225996/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="山东",古装剧场
+http://120.221.5.111:8089/PLTV/88888888/224/3221226057/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="山东",光影频道
+http://120.221.5.113:8089/PLTV/88888888/224/3221225854/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="山东",海看教育
+http://120.221.5.113:8089/PLTV/88888888/224/3221225852/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="山东",海看演艺
+http://120.221.5.113:8089/PLTV/88888888/224/3221226027/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="山东",海看健康
+http://120.221.5.113:8089/PLTV/88888888/224/3221226039/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="山东",海看大片
+http://120.221.5.113:8089/PLTV/88888888/224/3221225632/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="山东",海看剧场
+http://120.221.5.113:8089/PLTV/88888888/224/3221226053/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="山东",海看热播
+http://120.221.5.108:8089/PLTV/88888888/224/3221225878/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="山东",海看爱宠
+http://120.221.5.113:8089/PLTV/88888888/224/3221226071/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="山东",海看电竞
+http://120.221.5.165:8089/PLTV/88888888/224/3221225629/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="山东",海看少儿
+http://120.221.5.101:8089/PLTV/88888888/224/3221225943/index.m3u8
 #EXTINF:-1 tvg-id="6242" tvg-name="求索动物" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSDW.jpg" group-title="网络电视",求索动物
 http://39.134.66.66/PLTV/88888888/224/3221225730/index.m3u8
 #EXTINF:-1 tvg-id="6243" tvg-name="求索生活" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSSH.jpg" group-title="网络电视",求索生活
