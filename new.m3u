@@ -149,6 +149,8 @@ http://play.zhtctv.cn/portal/btv.flv
 http://219.153.252.50/PLTV/88888888/224/3221225531/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",重庆都市
 http://219.153.252.50/PLTV/88888888/224/3221225640/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",重庆国际
+https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_ChongQingWorld.m3u8
 #EXTINF:-1 tvg-id="6573" tvg-name="汽摩" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE22.jpg" group-title="其他",重庆汽摩
 http://39.135.140.226:6410/PLTV/88888888/224/3221225506/2/index.m3u8
 #EXTINF:-1 tvg-id="6605" tvg-name="优优宝贝" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC3.jpg" group-title="其他",优优宝贝
@@ -202,16 +204,21 @@ http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226556/1.m3u
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京",影剧未知
 http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226302/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南",湖南经视
+https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_HuNanFinance.m3u8
 http://kjol.cc/proxy/hunan.php?id=280
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南",湖南都市
 http://kjol.cc/proxy/hunan.php?id=346
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南",湖南公共
+https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_HuNanPublic.m3u8
 http://kjol.cc/proxy/hunan.php?id=261
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南",湖南娱乐
+https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_HuNanYuLe.m3u8
 http://kjol.cc/proxy/hunan.php?id=344
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南",湖南电视剧
+https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_HuNanTeleplay.m3u8
 http://kjol.cc/proxy/hunan.php?id=484
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南",湖南国际
+https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_HuNanWorld.m3u8
 http://kjol.cc/proxy/hunan.php?id=229
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="湖南",湖南金鹰纪实
 http://kjol.cc/proxy/hunan.php?id=316
@@ -947,6 +954,8 @@ https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_PhoenixTVHD.m3u8
 https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_PhoenixinfoTVHD.m3u8
 #EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",凤凰香港
 https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_PhoenixHKHD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",澳门卫视
+https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_MSTV.m3u8
 #EXTINF:-1 tvg-id="476" tvg-name="澳亚卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/澳亚卫视.png" group-title="港澳台",澳亚卫视
 https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_MasTV.m3u8
 #EXTINF:-1 tvg-id="527" tvg-name="CHANNEL[V]" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ChannelV.png" group-title="港澳台",CHANNEL[V]
@@ -1061,40 +1070,18 @@ https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_HeNanCity.m3u8
 https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_ShenZhenWorld.m3u8
 #EXTINF:-1 tvg-id="1783" tvg-name="湖北公共·新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HUBEI7.png" group-title="测试",湖北公共新闻
 https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_HuBeiXinWen.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="测试",湖南公共
-https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_HuNanPublic.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="测试",湖南国际
-https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_HuNanWorld.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="测试",湖南娱乐
-https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_HuNanYuLe.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="测试",湖南电视剧
-https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_HuNanTeleplay.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="测试",湖南经视
-https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_HuNanFinance.m3u8
-#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="测试",湖南金鹰卡通
-https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_HuNanKT.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="测试",贵阳经济生活
 https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_GuiYangJingJi.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="测试",重庆国际
-https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_ChongQingWorld.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="测试",长沙女性
-https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_ChangShaWomen
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="测试",长沙影视
-https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_ChangShaFinance
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="测试",长沙政法
-https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_ChangShaZhengFa
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="测试",长沙新闻
-https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_ChangShaNews
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="测试",青海生活 
-https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_QingHaiLife
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="测试",青海都市
-https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_QingHaiCity
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="测试",黄河新闻
-https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_HuangHeNews
-#EXTINF:-1 tvg-id="144" tvg-name="阳光卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/yangguangweishi.png" group-title="测试",阳光卫视
-https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_SunShineTV
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="测试",澳门卫视
-https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_MSTV.m3u8
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="陕西宝鸡银河",精彩综艺
 http://111.20.105.60:6060/yinhe/2/ch00000090990000001273?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="陕西宝鸡银河",精彩体育
