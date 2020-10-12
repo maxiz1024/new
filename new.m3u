@@ -163,6 +163,20 @@ http://39.135.138.59:18890/PLTV/88888910/224/3221225876/index.m3u8
 http://223.110.241.206:6610/gitv/live1/G_ZHIYEZN/G_ZHIYEZN
 #EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="北京",北京卡酷少儿
 http://39.135.138.59:18890/PLTV/88888910/224/3221225812/index.m3u8
+#EXTINF:-1 tvg-id="1873" tvg-name="BTV文艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV文艺.png" group-title="北京",北京文艺 
+https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_BTV2HD.m3u8
+#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="北京",北京卡酷少儿
+https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_KAKU.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京",北京国际
+https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_BTVWorld
+#EXTINF:-1 tvg-id="1875" tvg-name="BTV影视" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV影视.png" group-title="北京",北京影视
+https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_BTV4
+#EXTINF:-1 tvg-id="1873" tvg-name="BTV文艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV文艺.png" group-title="北京",北京文艺
+https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_BTV2
+#EXTINF:-1 tvg-id="1874" tvg-name="BTV科教" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV科教.png" group-title="北京",北京科教
+https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_BTV3
+#EXTINF:-1 tvg-id="1876" tvg-name="BTV财经" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV财经.png" group-title="北京",北京财经
+https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_BTV5
 #EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="北京",北京冬奥纪实
 http://39.135.138.59:18890/PLTV/88888910/224/3221225675/index.m3u8
 #EXTINF:-1 tvg-id="6613" tvg-name="置业频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC11.jpg" group-title="北京",北京置业频道
@@ -918,24 +932,10 @@ https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_PhoenixTVHD.m3u8
 https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_PhoenixinfoTVHD.m3u8
 #EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",凤凰香港
 https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_PhoenixHKHD.m3u8
-#EXTINF:-1 tvg-id="1873" tvg-name="BTV文艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV文艺.png" group-title="北京",北京文艺 
-https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_BTV2HD.m3u8
 #EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="地方",CETV2
 https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_CETV2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="测试",中国黄河
 https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_ChinaHuangHe
-#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="测试",北京卡酷少儿
-https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_KAKU.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="测试",北京国际
-https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_BTVWorld
-#EXTINF:-1 tvg-id="1875" tvg-name="BTV影视" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV影视.png" group-title="测试",北京影视
-https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_BTV4
-#EXTINF:-1 tvg-id="1873" tvg-name="BTV文艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV文艺.png" group-title="测试",北京文艺
-https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_BTV2
-#EXTINF:-1 tvg-id="1874" tvg-name="BTV科教" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV科教.png" group-title="测试",北京科教
-https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_BTV3
-#EXTINF:-1 tvg-id="1876" tvg-name="BTV财经" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV财经.png" group-title="测试",北京财经
-https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_BTV5
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="测试",安徽人物
 https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_AnHuiPeople
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="测试",安徽公共
