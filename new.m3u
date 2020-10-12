@@ -259,9 +259,9 @@ http://39.135.138.59:18890/PLTV/88888910/224/3221225679/index.m3u8
 http://39.135.138.59:18890/PLTV/88888910/224/3221225775/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="江西",江西九江新闻综合
 http://39.135.138.59:18890/PLTV/88888910/224/3221225774/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南",江西萍乡综合
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="江西",江西萍乡综合
 http://www.pxitv.com:8099/hls-live/livepkgr/_definst_/pxitvevent/pxtv1stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南",江西萍乡公共
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="江西",江西萍乡公共
 http://www.pxitv.com:8099/hls-live/livepkgr/_definst_/pxitvevent/pxtv3stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="云南",云南都市
 http://39.130.206.132:6410/gitv_live/G_YNTV-2/G_YNTV-2.m3u8
@@ -473,9 +473,9 @@ http://120.221.5.113:8089/PLTV/88888888/224/3221226071/index.m3u8
 http://120.221.5.165:8089/PLTV/88888888/224/3221225629/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="山东",海看少儿
 http://120.221.5.101:8089/PLTV/88888888/224/3221225943/index.m3u8
-#EXTINF:-1 tvg-id="6555" tvg-name="梨园" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE20.jpg" group-title="其他",河南梨园
+#EXTINF:-1 tvg-id="6555" tvg-name="梨园" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE20.jpg" group-title="河南",河南梨园
 http://39.135.140.226:6410/PLTV/88888888/224/3221225581/2/index.m3u8
-#EXTINF:-1 tvg-id="6586" tvg-name="武术世界" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WUSHUSHIJIE.jpg" group-title="其他",河南武术世界
+#EXTINF:-1 tvg-id="6586" tvg-name="武术世界" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WUSHUSHIJIE.jpg" group-title="河南",河南武术世界
 http://39.135.140.226:6410/PLTV/88888888/224/3221225508/2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南",河南民生
 http://117.158.206.60:9080/live/live29_tzwj_500k.m3u8
