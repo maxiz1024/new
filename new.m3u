@@ -938,6 +938,7 @@ https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_1328_av-p.m3u
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="星空卫视" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/8d/Xing_Kong_Wei_Shi.jpg" group-title="港澳台",星空卫视
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_XingKongTV.m3u8
 #EXTINF:-1 tvg-id="6114" tvg-name="MTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/mtvlivehd.png" group-title="港澳台",MTV
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=202&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文
@@ -946,8 +947,14 @@ https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_PhoenixTVHD.m3u8
 https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_PhoenixinfoTVHD.m3u8
 #EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",凤凰香港
 https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_PhoenixHKHD.m3u8
-#EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="地方",CETV2
-https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_CETV2
+#EXTINF:-1 tvg-id="476" tvg-name="澳亚卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/澳亚卫视.png" group-title="港澳台",澳亚卫视
+https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_MasTV.m3u8
+#EXTINF:-1 tvg-id="527" tvg-name="CHANNEL[V]" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ChannelV.png" group-title="港澳台",CHANNEL[V]
+https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_ChannelV.m3u8
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台
+https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_XGFeiCui.m3u8
+#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="港澳台",明珠台
+https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_XGMingZhu.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="测试",中国黄河
 https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_ChinaHuangHe
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="测试",安徽人物
@@ -1088,24 +1095,6 @@ https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_HuangHeNews
 https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_SunShineTV
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="测试",澳门卫视
 https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_MSTV.m3u8
-#EXTINF:-1 tvg-id="476" tvg-name="澳亚卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/澳亚卫视.png" group-title="测试",澳亚卫视
-https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_MasTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="测试",星空卫视
-https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_XingKongTV.m3u8
-#EXTINF:-1 tvg-id="527" tvg-name="CHANNEL[V]" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ChannelV.png" group-title="测试",CHANNEL[V]
-https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_ChannelV.m3u8
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="测试",翡翠台
-https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_XGFeiCui.m3u8
-#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="测试",明珠台
-https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_XGMingZhu.m3u8
-#EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png" group-title="地方",优漫卡通[标清]
-http://111.20.105.60:6060/yinhe/2/ch00000090990000001065?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="陕西宝鸡银河",CETV2[标清]
-http://111.20.105.60:6060/yinhe/2/ch00000090990000001064?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="陕西宝鸡银河",北京少儿[标清]
-http://111.20.105.60:6060/yinhe/2/ch00000090990000001066?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="卫视",金鹰卡通[标清]
-http://111.20.105.60:6060/yinhe/2/ch00000090990000001067?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="陕西宝鸡银河",精彩综艺
 http://111.20.105.60:6060/yinhe/2/ch00000090990000001273?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="陕西宝鸡银河",精彩体育
@@ -1114,8 +1103,6 @@ http://111.20.105.60:6060/yinhe/2/ch00000090990000001274?virtualDomain=yinhe.liv
 http://111.20.105.60:6060/yinhe/2/ch00000090990000001275?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="陕西宝鸡银河",精彩电视剧
 http://111.20.105.60:6060/yinhe/2/ch00000090990000001276?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="陕西宝鸡银河",CETV3[标清]
-http://111.20.105.60:6060/yinhe/2/ch00000090990000001309?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="陕西宝鸡银河",嘉佳卡通[标清]
 http://111.20.105.60:6060/yinhe/2/ch00000090990000001310?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="6588" tvg-name="发现之旅" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfaxianzhilv.png" group-title="陕西宝鸡银河",中央新影发现之旅[标清]
@@ -1134,15 +1121,15 @@ http://111.20.105.60:6060/yinhe/2/ch00000090990000001579?virtualDomain=yinhe.liv
 http://111.20.105.60:6060/yinhe/2/ch00000090990000001589?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="陕西宝鸡银河",陕西都市青春[768*576]
 http://111.20.105.60:6060/yinhe/2/ch00000090990000001593?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="94" tvg-name="IPTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV5+.png" group-title="地方",IPTV5+[HD]
+#EXTINF:-1 tvg-id="94" tvg-name="IPTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV5+.png" group-title="陕西宝鸡银河",IPTV5+[HD]
 http://111.20.105.60:6060/yinhe/2/ch00000090990000001592?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="陕西宝鸡银河",西安2[791*576]
 http://111.20.105.60:6060/yinhe/2/ch00000090990000001595?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="陕西宝鸡银河",足球[785*576]
 http://111.20.105.60:6060/yinhe/2/ch00000090990000001600?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="7240" tvg-name="IPTV3+" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV3+.png" group-title="地方",IPTV3+[720*576]
+#EXTINF:-1 tvg-id="7240" tvg-name="IPTV3+" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV3+.png" group-title="陕西宝鸡银河",IPTV3+[720*576]
 http://111.20.105.60:6060/yinhe/2/ch00000090990000001629?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="94" tvg-name="IPTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV5+.png" group-title="地方",IPTV5+[785*576]
+#EXTINF:-1 tvg-id="94" tvg-name="IPTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV5+.png" group-title="陕西宝鸡银河",IPTV5+[785*576]
 http://111.20.105.60:6060/yinhe/2/ch00000090990000001639?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="陕西宝鸡银河",IPTV6+[785*576]
 http://111.20.105.60:6060/yinhe/2/ch00000090990000001649?virtualDomain=yinhe.live_hls.zte.com
@@ -1150,8 +1137,6 @@ http://111.20.105.60:6060/yinhe/2/ch00000090990000001649?virtualDomain=yinhe.liv
 http://111.20.105.60:6060/yinhe/2/ch00000090990000001659?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="陕西宝鸡银河",熊猫直播[HD]
 http://111.20.105.60:6060/yinhe/2/ch00000090990000001679?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="地方",金鹰纪实[HD]
-http://111.20.105.60:6060/yinhe/2/ch00000090990000001699?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="陕西宝鸡银河",陕西新闻资讯[768*576]
 http://111.20.105.60:6060/yinhe/2/ch00000090990000001719?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="陕西宝鸡银河",延安综合[HD]
