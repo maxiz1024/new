@@ -125,7 +125,7 @@ http://39.135.138.59:18890/PLTV/88888910/224/3221225747/index.m3u8
 http://39.135.138.59:18890/PLTV/88888910/224/3221225645/index.m3u8
 #EXTINF:-1 tvg-id="6564" tvg-name="女性时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png" group-title="央视",CCTV女性时尚
 http://39.135.138.59:18890/PLTV/88888910/224/3221225814/index.m3u8
-#EXTINF:-1 tvg-id="6588" tvg-name="发现之旅" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfaxianzhilv.png" group-title="央视",CCTV发现之旅
+#EXTINF:-1 tvg-id="6588" tvg-name="发现之旅" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfaxianzhilv.png" group-title="央视",中央新影发现之旅
 http://223.110.241.206:6610/gitv/live1/G_FAXIANZL/G_FAXIANZL
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",中央新影中学生
 http://39.135.140.226:6410/PLTV/88888888/224/3221225515/2/index.m3u8
@@ -133,18 +133,14 @@ http://39.135.140.226:6410/PLTV/88888888/224/3221225515/2/index.m3u8
 http://39.135.140.226:6410/PLTV/88888888/224/3221225517/2/index.m3u8
 #EXTINF:-1 tvg-id="6590" tvg-name="国学" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/SHUOWENJIEZI.jpg" group-title="央视",国学频道
 http://223.110.241.206:6610/gitv/live1/G_GUOXUE/G_GUOXUE
-#EXTINF:-1 tvg-id="6609" tvg-name="新娱乐" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC7.jpg" group-title="央视",生态环境
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",生态环境
 http://223.110.241.206:6610/gitv/live1/G_XINYULE/G_XINYULE
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",中国交通
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",中国交通
 http://39.135.138.59:18890/PLTV/88888910/224/3221225877/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",中国国际教育
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",中国国际教育
 http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
-#EXTINF:-1 tvg-id="6597" tvg-name="中华美食" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHINA-FOODTV.jpg" group-title="其他",中华美食
-http://39.135.138.59:18890/PLTV/88888910/224/3221225924/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",中国天气
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",中国天气
 http://keonline.shanghai.liveplay.qq.com/live/program/live/zgqx/1300000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",中华特产
-http://play.zhtctv.cn/portal/btv.flv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",重庆新闻
 http://219.153.252.50/PLTV/88888888/224/3221225531/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",重庆都市
@@ -189,6 +185,8 @@ http://223.110.241.206:6610/gitv/live1/G_JINGJU/G_JINGJU
 http://223.110.241.206:6610/gitv/live1/G_JIATINGLC/G_JIATINGLC
 #EXTINF:-1 tvg-id="6612" tvg-name="弈坛春秋" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC10.jpg" group-title="北京",北京弈坛春秋
 http://223.110.241.206:6610/gitv/live1/G_YITANCQ/G_YITANCQ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京",北京中华特产
+http://play.zhtctv.cn/portal/btv.flv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京",北京IPTV淘娱乐
 http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京",北京IPTV淘电影
@@ -548,6 +546,8 @@ http://120.221.5.113:8089/PLTV/88888888/224/3221225986/index.m3u8
 http://120.221.5.111:8089/PLTV/88888888/224/3221226014/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="山东",山东高青综合
 http://120.221.5.165:8089/PLTV/88888888/224/3221225905/index.m3u8
+#EXTINF:-1 tvg-id="6597" tvg-name="中华美食" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHINA-FOODTV.jpg" group-title="山东",山东青岛中华美食
+http://39.135.138.59:18890/PLTV/88888910/224/3221225924/index.m3u8
 #EXTINF:-1 tvg-id="103" tvg-name="IPTV少儿动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV少儿动画.png" group-title="山东",IPTV少儿动画
 http://120.221.5.113:8089/PLTV/88888888/224/3221225929/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="山东",家庭影院
