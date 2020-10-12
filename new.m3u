@@ -131,6 +131,10 @@ http://223.110.241.206:6610/gitv/live1/G_FAXIANZL/G_FAXIANZL
 http://39.135.140.226:6410/PLTV/88888888/224/3221225515/2/index.m3u8
 #EXTINF:-1 tvg-id="6594" tvg-name="老故事" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVlaogushi.png" group-title="央视",中央新影老故事
 http://39.135.140.226:6410/PLTV/88888888/224/3221225517/2/index.m3u8
+#EXTINF:-1 tvg-id="6590" tvg-name="国学" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/SHUOWENJIEZI.jpg" group-title="央视",国学频道
+http://223.110.241.206:6610/gitv/live1/G_GUOXUE/G_GUOXUE
+#EXTINF:-1 tvg-id="6609" tvg-name="新娱乐" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC7.jpg" group-title="央视",生态环境
+http://223.110.241.206:6610/gitv/live1/G_XINYULE/G_XINYULE
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",中国交通
 http://39.135.138.59:18890/PLTV/88888910/224/3221225877/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",中国国际教育
@@ -155,10 +159,20 @@ http://124.227.184.49/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226025/index.m
 http://live.wifizs.cn/qdly/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",吉林篮球
 http://39.135.138.59:18890/PLTV/88888910/224/3221225876/index.m3u8
-#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="其他",北京卡酷少儿
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",湖北职业指南
+http://223.110.241.206:6610/gitv/live1/G_ZHIYEZN/G_ZHIYEZN
+#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="北京",北京卡酷少儿
 http://39.135.138.59:18890/PLTV/88888910/224/3221225812/index.m3u8
-#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="其他",北京冬奥纪实
+#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="北京",北京冬奥纪实
 http://39.135.138.59:18890/PLTV/88888910/224/3221225675/index.m3u8
+#EXTINF:-1 tvg-id="6613" tvg-name="置业频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC11.jpg" group-title="北京",北京置业频道
+http://223.110.241.206:6610/gitv/live1/G_ZHIYE/G_ZHIYE
+#EXTINF:-1 tvg-id="6610" tvg-name="京视剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC8.jpg" group-title="北京",北京京视剧场
+http://223.110.241.206:6610/gitv/live1/G_JINGJU/G_JINGJU
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京",北京家庭理财
+http://223.110.241.206:6610/gitv/live1/G_JIATINGLC/G_JIATINGLC
+#EXTINF:-1 tvg-id="6612" tvg-name="弈坛春秋" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC10.jpg" group-title="北京",北京弈坛春秋
+http://223.110.241.206:6610/gitv/live1/G_YITANCQ/G_YITANCQ
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南",湖南经视
 http://kjol.cc/proxy/hunan.php?id=280
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南",湖南都市
@@ -239,22 +253,6 @@ http://scgctvshow.sctv.com/hdlive/sctv7/1.m3u8
 http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
 #EXTINF:-1 tvg-id="2061" tvg-name="SCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv9.png" group-title="四川",四川公共
 http://scgctvshow.sctv.com/hdlive/sctv9/1.m3u8
-#EXTINF:-1 tvg-id="6613" tvg-name="置业频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC11.jpg" group-title="江苏",置业频道
-http://223.110.241.206:6610/gitv/live1/G_ZHIYE/G_ZHIYE
-#EXTINF:-1 tvg-id="6610" tvg-name="京视剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC8.jpg" group-title="江苏",京视剧场
-http://223.110.241.206:6610/gitv/live1/G_JINGJU/G_JINGJU
-#EXTINF:-1 tvg-id="6609" tvg-name="新娱乐" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC7.jpg" group-title="江苏",新娱乐
-http://223.110.241.206:6610/gitv/live1/G_XINYULE/G_XINYULE
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="江苏",家庭理财
-http://223.110.241.206:6610/gitv/live1/G_JIATINGLC/G_JIATINGLC
-#EXTINF:-1 tvg-id="6612" tvg-name="弈坛春秋" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC10.jpg" group-title="江苏",弈坛春秋
-http://223.110.241.206:6610/gitv/live1/G_YITANCQ/G_YITANCQ
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="江苏",职业指南
-http://223.110.241.206:6610/gitv/live1/G_ZHIYEZN/G_ZHIYEZN
-#EXTINF:-1 tvg-id="6582" tvg-name="证券资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVzhengquan.png" group-title="江苏",证券资讯
-http://223.110.241.206:6610/gitv ... UANZX/G_ZHENGJUANZX
-#EXTINF:-1 tvg-id="6590" tvg-name="国学" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/SHUOWENJIEZI.jpg" group-title="江苏",国学频道
-http://223.110.241.206:6610/gitv/live1/G_GUOXUE/G_GUOXUE
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="江苏",江苏靓装
 http://39.135.140.226:6410/PLTV/88888888/224/3221225509/2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="江苏",江苏教育
